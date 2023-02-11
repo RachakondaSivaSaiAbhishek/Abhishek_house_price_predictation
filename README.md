@@ -1,2 +1,2 @@
 # Abhishek_house_price_predictation
-kaggle kernels output mfaisalqureshi/banglore-house-price-prediction -p /path/to/dest
+A Linear Regression Model that predicts house price based on bench mark dataset features
