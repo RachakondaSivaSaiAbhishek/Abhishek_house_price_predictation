@@ -1,6 +1,6 @@
 # Abhishek House Price Prediction 🏠💰
 
-![House](https://media.giphy.com/media/bxNchyjCvi4F9ttVtj/giphy.gif)
+![House](https://media.giphy.com/media/bxNchyjCvi4F9ttVtj/giphy.gif) 
 
 This repository contains a Linear Regression model implemented by Abhishek for predicting house prices based on benchmark dataset features. The goal of this project is to leverage the power of machine learning to accurately estimate house prices using various relevant features.
 
